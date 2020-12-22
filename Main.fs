@@ -25,6 +25,7 @@ let main argv =
    //C:\Users\Shmuel Finson\Desktop\עקרונות שפות תכנה\nand2tetris\projects\08\FunctionCalls\SimpleFunction\SimpleFunction.vm
    //C:\Users\Shmuel Finson\Desktop\עקרונות שפות תכנה\nand2tetris\projects\08\FunctionCalls\NestedCall\Sys.vm
    //C:\Users\Shmuel Finson\Desktop\עקרונות שפות תכנה\nand2tetris\projects\08\FunctionCalls\FibonacciElement\Main.vm
+   //hello
                 
        let directory  = """C:\Users\Shmuel Finson\Desktop\עקרונות שפות תכנה\nand2tetris\projects\08\FunctionCalls\StaticsTest"""
        let futurefileName = "StaticsTest"
